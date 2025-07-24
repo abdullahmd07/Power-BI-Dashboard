@@ -8,7 +8,7 @@ This dashboard was created for job seekers, job transitioners and students who s
 - **⚙️ Data Transformation (ETL) with Power Query**: Cleaned, shaped and prepared the raw data for analysis by handling blanks, changing data types and creating new columns.
 - **🔗 Implicit measures**: Formulated measures to derive key insights and KPIs like `Median Annual Salary` and `Job Count`.
 - **📲 Dashboard Design**: Built an interactive and intuitive Power BI dashboard, balancing usability with visual appeal to deliver insights at a glance.
-- **📈 Data Visualization**: Designed and implemented core visuals including column charts, bar graphs, and line charts to compare job counts, salary distributions, and hiring trends across various data job roles.
+- **📈 Data Visualization**: Designed and implemented core visuals including column charts, bar graphs, and scatter plot to compare job counts, salary distributions, and hiring trends across various data job roles.
 - **🗺️ Geospatial Analysis**: Incorporated map visuals to highlight the global distribution of data job opportunities and salary variations by region.
 - **📊 KPI & Detail Reporting**: Used cards to display key performance indicators (e.g., average salary, total job postings), and tables for detailed, sortable job data.
 - **💻 Interactivity & UX**: Enhanced user experience using slicers, drill-through functionality, and custom buttons to allow seamless navigation and deeper exploration of the data.
